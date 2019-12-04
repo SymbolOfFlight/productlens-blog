@@ -17,7 +17,7 @@ tags:
 
 The framework explains why some people "hire" (buy) products and why certain tradeoffs are made in our customers' mind.
 
-It is worth mentioning that the **phrase** "job-to-be-done" (JTBD) has been carefully worded to reflect that this is about **_perceived progress_** or outcomes in our customers mind. 
+It is worth mentioning that the **phrase** "job-to-be-done" (JTBD) has been carefully worded to reflect that this is about _**perceived progress**_ or outcomes in our customers mind. 
 
 The reason why it isn't about "problem-based-selling" is because there are usually both **social and functiona**l dimensions and "problems" doesn't really encapsulate it.
 
@@ -87,7 +87,7 @@ This next section is super important
 
 To understand how to "design for progress", you have to first understand it.
 
-## Product Design, Copywriting & Sales Pitches
+## Product Design, Copywriting & Sales
 
 There will always be a temptation to tout the 1,000+ features that are vastly superior.
 
