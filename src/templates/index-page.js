@@ -9,40 +9,28 @@ export const IndexPageTemplate = ({
   heading,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      // style={{
-      //   backgroundImage: `url(${
-      //     !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-      //   })`,
-      //   backgroundPosition: `top left`,
-      //   backgroundAttachment: `fixed`,
-      // }}
-    >
+    <div className="full-width-image margin-top-0">
       <div
         style={{
           display: 'flex',
-          height: '150px',
+          height: '10rem',
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'left',
           flexDirection: 'column',
+          fontFamily: "Nunito",
         }}
       >
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            color: '#0761B5',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
+          style={{color: '#1C2330', lineHeight: '1', padding: '0.25em',}}
         >
           {title}
         </h1>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            color: '#0761B5',
+            color: '#1C2330',
             lineHeight: '1',
             padding: '0.25em',
             textAlign: 'center',
