@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
+import EmailSignUp from '../components/EmailSignUp'
 
 export const IndexPageTemplate = ({
   title,
@@ -56,6 +57,7 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
+                  <EmailSignUp />
                 </div>
               </div>
             </div>

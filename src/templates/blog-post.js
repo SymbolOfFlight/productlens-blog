@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import EmailSignUp from '../components/EmailSignUp'
 
 export const BlogPostTemplate = ({
   content,
@@ -41,6 +42,7 @@ export const BlogPostTemplate = ({
             ) : null}
           </div>
         </div>
+        <EmailSignUp/>
       </div>
     </section>
   )
@@ -75,6 +77,7 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
+      
     </Layout>
   )
 }

@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
+import './style.scss'
 
 class BlogRoll extends React.Component {
   render() {
@@ -31,8 +32,11 @@ class BlogRoll extends React.Component {
                   ) : null}
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title is-size-4"
                       to={post.fields.slug}
+                      style={{
+                        color: '#0761B5',
+                      }}
                     >
                       {post.frontmatter.title}
                     </Link>
@@ -46,9 +50,11 @@ class BlogRoll extends React.Component {
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
+                  <div className="btn">
+                    <Link to={post.fields.slug}>
+                      Keep Reading →
+                    </Link>
+                    </div>
                 </p>
               </article>
             </div>

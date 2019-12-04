@@ -1,6 +1,8 @@
 import React from 'react'
 import Layout from '../../components/Layout'
+import '../../components/style.scss'
 import BlogRoll from '../../components/BlogRoll'
+import EmailSignUp from '../../components/EmailSignUp'
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -22,6 +24,7 @@ export default class BlogIndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <BlogRoll />
+              <EmailSignUp/>
             </div>
           </div>
         </section>
