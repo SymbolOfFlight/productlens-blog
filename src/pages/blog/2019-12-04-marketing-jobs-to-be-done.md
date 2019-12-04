@@ -1,27 +1,44 @@
 ---
 templateKey: blog-post
-title: 'Marketing: Jobs-to-be-Done'
+title: Jobs-to-be-Done framework for Product Marketing
 date: 2019-12-04T05:36:06.238Z
 description: >
   The framework has shifted the landscape for many businesses thinking about
   product innovation and their go-to-market strategy.
 
-  [Initially coined by Bob Moesta (Re-wired Group) and Clayton Christensen (HBS
-  Professor)] 
+  Credits to Bob Moesta (Re-wired Group) and Clayton Christensen (HBS
+  Professor).
 featuredpost: true
 featuredimage: /img/jtbd.png
 tags:
   - Strategy
 ---
-# We are here to **"do a job"**
+![](/img/screenshot-2019-12-04-at-9.47.35-pm.png)
 
-The framework explains why some people "hire" (buy) products and why certain tradeoffs are made in our customers' mind.
+# **We are here to "do a job"**
 
-It is worth mentioning that the **phrase** "job-to-be-done" (JTBD) has been carefully worded to reflect that this is about _**perceived progress**_ or outcomes in our customers mind. 
+> The framework explains why some people "hire" (buy) products and why certain tradeoffs are made in our customers' mind.
+
+It is worth mentioning that the **phrase** "job-to-be-done" (JTBD) has been carefully worded to reflect that this is about **_perceived progress_** or outcomes in our customers mind. 
 
 The reason why it isn't about "problem-based-selling" is because there are usually both **social and functiona**l dimensions and "problems" doesn't really encapsulate it.
 
-> Jobs are about a "journey"
+## Jobs are about a "journey"
+
+![](/img/flow.jpeg)
+
+Your product or service doesn't have to cover the whole journey. It has to serve the points along that "journey".
+
+**E.g. Microsoft Word:** One of the most commonly used tools today
+
+* **After** I'm done writing, I have to submit X to my editor, print & update my project mates.
+* The next three steps are done on 
+  * Email Printer
+  * Laser Printer
+  * Project management app
+* Microsoft did not have to cater to every step
+
+Cater to the first step that you can add "progress" from the status quo.
 
 ## Why the buzz?
 
@@ -33,7 +50,7 @@ Middle aged women. 2 kids. Married. Asian
 
 What we've all learnt is that NONE of these characteristics actually **cause** me to buy something. They do however, correlate (will come back to this, don't throw this away).
 
-# JTBD: Context, Annoyance, Trigger & Progress
+# **JTBD: Context, Annoyance, Trigger & Progress**
 
 * I have always been doing X (context)
 * X seems repetitive, annoying, painful (insert annoyance)
@@ -51,6 +68,8 @@ Think about how many promotions are going on in the world right now. How many pr
 ```
 There has to be an Annoyance and a Trigger
 ```
+
+![](/img/desire.png)
 
 ## Competitive Set: Friendship & Beds
 
@@ -70,7 +89,7 @@ When your product surfaces, it could be ONE of the many possible alternatives.
 Competition doesn't make sense without context.\
 Competition doesn't begin until the trigger.
 
-# Fired from the Job
+# **Fired from the Job**
 
 As illustrated from the previous section, whenever there is a new "hire" there will also be something "fired".
 
@@ -98,3 +117,5 @@ Using the example from the previous section, **would a solar-powered, environmen
 No. Unless it was **louder** than what I already have.
 
 Understanding the "vector-of-progress" is what aids in design and sales.
+
+****
