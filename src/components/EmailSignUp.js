@@ -8,7 +8,7 @@ const EmailSignUp = () => {
               <h4>Learn more about strategies & tactics from the <br/>product marketing perspective</h4>
                 <p className="p">Delivered once a week to your inbox</p>
                   <form name="Blog Email Sign Up" className="form-inline " method="POST" data-netlify="true" action="/" data-netlify-honeypot="bot-field">
-                      <input type="hidden" name="form-name" value="Product Marketing Email Sign Up" />
+                      <input type="hidden" name="form-name" value="Blog Email Sign Up" />
                       <div className="form-group">
                           <input name="email" type="email" className="formControlSignUp" id="exampleInputEmail1"  placeholder="Enter email"/>
                       </div>
