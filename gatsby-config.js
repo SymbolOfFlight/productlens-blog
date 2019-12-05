@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Blog | Product Lens',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Product marketing has become an increasingly important role in many businesses. But what does that mean for you? We write about marketing strategy and tactics from the lens of product marketing so that you can keep tabs on the product marketing landscape.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
