@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
-      <Helmet> 
+      <Helmet>
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
@@ -47,6 +47,7 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix('/')}img/FeaturedImage.png`}
         />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="https://i.imgur.com/Mjvdbum.png" />
 
       </Helmet>
       <Navbar />
