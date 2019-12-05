@@ -19,7 +19,7 @@ tags:
 
 > The framework explains why some people "hire" (buy) products and why certain tradeoffs are made in our customers' mind.
 
-It is worth mentioning that the **phrase** "job-to-be-done" (JTBD) has been carefully worded to reflect that this is about **_perceived progress_** or outcomes in our customers mind. 
+It is worth mentioning that the **phrase** "job-to-be-done" (JTBD) has been carefully worded to reflect that this is about _**perceived progress**_ or outcomes in our customers mind. 
 
 The reason why it isn't about "problem-based-selling" is because there are usually both **social and functiona**l dimensions and "problems" doesn't really encapsulate it.
 
@@ -118,4 +118,20 @@ No. Unless it was **louder** than what I already have.
 
 Understanding the "vector-of-progress" is what aids in design and sales.
 
-****
+\--------
+
+# Why I write
+
+**Product marketing** has become an increasingly important role in many businesses.
+
+But what does that mean for you?
+
+I write about marketing strategy and tactics from the lens of product marketing so that you can keep tabs on the product marketing landscape.
+
+Whenever I learn something new, I share it here on this blog
+
+As an added bonus, we use it to reflect on our own product development and marketing efforts.
+
+Subscribe to learn along with me!
+
+- - -
