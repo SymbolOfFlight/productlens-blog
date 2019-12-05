@@ -4,7 +4,7 @@ title: About Product Lens Blog
 ---
 ### Why I write
 
-**Product marketing** is an increasingly important role in a customer-centric world. 
+**Product marketing** has become an increasingly important role in many businesses. 
 
 But what does that mean for you?
 
