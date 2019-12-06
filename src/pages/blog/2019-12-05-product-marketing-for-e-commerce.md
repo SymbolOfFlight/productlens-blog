@@ -12,7 +12,9 @@ To ensure the overall success, this includes, customer research, assortment plan
 
 # **Atoms & Bits**
 
-Most of the thought leaders in the product marketing space comes from companies like [Drift](https://www.drift.com/), [Hubspot](https://www.hubspot.com/) and [Intercom](https://www.intercom.com/), all great companies, but their content skews very much towards Software-as-a-service (SaaS) businesses.
+Most of the thought leaders in the product marketing space comes from companies like [Drift](https://www.drift.com/), [Hubspot](https://www.hubspot.com/) and [Intercom](https://www.intercom.com/), that give an amazing examples of how Product Marketers should get started.
+
+All great companies, **BUT** their content skews very much towards Software-as-a-service (SaaS) businesses.
 
 ## **Why is Product Marketing for E-commerce so different?**
 
@@ -26,14 +28,14 @@ As a brand or retailer, two major differences
 **Customer Research**\
 1-to-1 Customer research methods that take 1 hour each just doesn’t scale for you.
 
-**Product Development**\
+**Product Development**
+\
 Retailers have the advantage when it comes to “product development”.\
 \
 You don’t have to manufacture most of your products in-house. \
 \
-After customer research, you can build a really successful business by piecing together the best products from everywhere (Think [Sephora](https://www.sephora.com/)).
-
-
+After customer research, you can build a really successful business by piecing together the best products from everywhere (Think [Sephora](https://www.sephora.com/))
+.
 
 # **Roles & Responsibilities**
 
@@ -82,8 +84,6 @@ Leveraging what you’ve already prepared in the positioning phase, match the co
 
 ![](/img/copywriting-messaging.png)
 
-
-
 ## 5. Channel Sales Enablement
 
 This step involves doing what is necessary to enable the success of a particular sales channel.
@@ -123,3 +123,11 @@ Whenever I learn something new, I share it here on this blog
 As an added bonus, we use it to reflect on our own product development and marketing efforts.
 
 Subscribe to learn along with me!
+
+\-------------
+
+## References
+
+* [Drift Blog](https://www.drift.com/blog/what-is-product-marketing/)
+* [Hubspot Blog](https://blog.hubspot.com/marketing/what-is-product-marketing)
+* [Inside Intercom](https://www.intercom.com/blog/how-product-marketing-helps-build-product/)
